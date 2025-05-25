@@ -1,3 +1,5 @@
+It contains the codes of the processes performed in the Brain Tumor and Species Detection project we developed with [@oguzhankuzlukluoglu](https://github.com/oguzhankuzlukluoglu).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
